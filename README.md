@@ -37,7 +37,7 @@ A simple **command-line Python application** to track income, expenses, and savi
 ├── finance_data.csv        # CSV file storing transactions (auto-created)
 ├── main.py                 # Main script (menu and program logic)
 ├── data_entry.py           # Handles user input validation (date, amount, category, description)
-
+```
 
 ## Installation
 
